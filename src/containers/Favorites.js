@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useContext } from 'react';
 
 import FavoriteItem from '../components/Favorites/FavoriteItem';
 import { useStore } from '../hooks-store/store';
